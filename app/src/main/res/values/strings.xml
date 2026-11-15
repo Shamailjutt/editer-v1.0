@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shamail Editor</string>
+    <string name="on_device_badge">Processed on this device only</string>
+    <string name="clear_session">Clear session</string>
+    <string name="choose_photo_picker">Choose Photo</string>
+    <string name="browse_jpeg_file">Browse JPEG File</string>
+    <string name="jpeg_only_note">JPEG / JPG only • Zero storage permissions</string>
+    <string name="unsupported_file_error">Unsupported file type. Only JPEG / JPG files are supported.</string>
+    <string name="saved_photo_confirmation">Saved photo contains only your edited metadata. No original data was kept inside it.</string>
+    <string name="backup_warning_note">The backup file contains your old location, dates and text. Store it privately or don\'t create it.</string>
+    <string name="no_backup_note">In \"Don\'t keep any backup\" mode, original bytes are held only in memory for \"Revert to original\" during this session and are discarded on \"Clear session\" or exit.</string>
+    <string name="remove_all_banner">All metadata marked for removal. Applying changes will strip every EXIF, XMP, IPTC, comment, thumbnail, and trailing payload (keeping only JFIF, ICC profile, and Adobe APP14). Use Revert to original to undo.</string>
+</resources>

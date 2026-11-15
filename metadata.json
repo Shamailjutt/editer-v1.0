@@ -1,0 +1,6 @@
+{
+  "name": "Shamail Editor",
+  "description": "Local on-device JPEG EXIF metadata viewer, editor, and privacy scrubber with post-build byte verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
